@@ -9,7 +9,7 @@ library(readxl)
 library(dplyr)
 
 # UI
-ui <- fluidPage( #creates a responsive layout for shiny web app
+ui <- fluidPage( #creates a responsive layout for shiny web app.
   theme = shinytheme("cyborg"), # to put the Cyborg theme (shiny themes used)
   titlePanel("Market Data Analysis"), #to put the title for the app
   
