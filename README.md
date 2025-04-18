@@ -106,12 +106,6 @@ Your uploaded `.csv` file **must include** the following columns:
 
 ---
 
-## 📌 Screenshots
-
-> *(Add your own screenshots here of each tab for Data, Visualizations, Clustering, and Association Rules)*
-
----
-
 ## 📚 License
 
 This project is open-source and free to use under the MIT License.
