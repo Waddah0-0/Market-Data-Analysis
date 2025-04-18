@@ -127,4 +127,4 @@ This project is open-source and free to use under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Made by [Your Name](https://github.com/yourusername)
+Made by [Waddah](https://github.com/Waddah0-0)
